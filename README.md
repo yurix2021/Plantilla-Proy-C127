@@ -1,2 +1,2 @@
-# Plantilla-Proy-C127
-Diseño de habitación
+# PRO_C148_SP_V2
+Proyecto posterior a la clase 148.
